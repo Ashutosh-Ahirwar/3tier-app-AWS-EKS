@@ -1,7 +1,3 @@
-Below is the confirmation of successful deployment:
-
-![Website](assets/Task-1.gif)
-
 HLD:
 
 ![HLD](assets/task.png)
